@@ -4,15 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="10th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab013_Baiscs_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab014_Basics_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab015_Basics_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab016_Basics_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab017_Basics_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab018_Basics_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab019_Basics_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab020_Basics_20.py" afterDir="false" />
+    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="11th April 2025">
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab021_Escapse_sequence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab023_Boolean_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab024_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab025_Row_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab028_Comparsion_operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab029_logical_operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab030_ASSIGN-operator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +59,18 @@
     "Python.Lab003_Basics_03.executor": "Run",
     "Python.Lab008_Basics_08.executor": "Run",
     "Python.Lab015_Basics_15.executor": "Run",
+    "Python.Lab022_String_01.executor": "Run",
+    "Python.Lab025_String_02.executor": "Run",
+    "Python.Lab026_Row_02option.executor": "Run",
+    "Python.Lab027_Operator01.executor": "Run",
+    "Python.Lab029_logical_operator.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab015_Basics_15">
-    <configuration name="Lab001_Hello_World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab029_logical_operator">
+    <configuration name="Lab022_String_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -72,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_python_basic_pratices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_python_basic_pratices/Lab001_Hello_World.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab003_Basics_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab025_Row_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,11 +101,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_python_basic_pratices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_python_basic_pratices/Lab003_Basics_03.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alamu\PycharmProjects\PythonProject6\ex02_Char_01\Lab025_Row_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab008_Basics_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab026_Row_02option" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -116,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_python_basic_pratices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_python_basic_pratices/Lab008_Basics_08.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab015_Basics_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab027_Operator01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_python_basic_pratices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_python_basic_pratices/Lab015_Basics_15.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="Lab029_logical_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,105 +167,26 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab029_logical_operator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="Tox" factoryName="Tox">
-      <module name="Python_Basics_Pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Docutils task">
-      <module name="Python_Basics_Pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="docs" factoryName="Sphinx task">
-      <module name="Python_Basics_Pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="docutils_input_file" value="" />
-      <option name="docutils_output_file" value="" />
-      <option name="docutils_params" value="" />
-      <option name="docutils_task" value="" />
-      <option name="docutils_open_in_browser" value="false" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Autodetect">
-      <module name="Python_Basics_Pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="tests" factoryName="Doctests">
-      <module name="Python_Basics_Pratice" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_SCRIPT" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab015_Basics_15" />
-        <item itemvalue="Python.Lab008_Basics_08" />
-        <item itemvalue="Python.Lab003_Basics_03" />
-        <item itemvalue="Python.Lab001_Hello_World" />
+        <item itemvalue="Python.Lab029_logical_operator" />
+        <item itemvalue="Python.Lab027_Operator01" />
+        <item itemvalue="Python.Lab026_Row_02option" />
+        <item itemvalue="Python.Lab025_Row_01" />
+        <item itemvalue="Python.Lab022_String_01" />
       </list>
     </recent_temporary>
   </component>
@@ -294,11 +222,20 @@
       <option name="project" value="LOCAL" />
       <updated>1744304356722</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="11th April 2025">
+      <option name="closed" value="true" />
+      <created>1744335283951</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744335283951</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10th April 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="10th April 2025" />
+    <MESSAGE value="11th April 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="11th April 2025" />
   </component>
 </project>
