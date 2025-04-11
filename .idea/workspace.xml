@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab001_Hello_World.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab002_Basics_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab003_Basics_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab004_python_Basic_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab005_python_Basics_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab006_Basic_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab007_Basics_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab008_Basics_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab009_Basics_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab010_Basics_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab011_Basics_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab012_Basics_12.py" afterDir="false" />
+    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="10th April 2025">
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab013_Baiscs_13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab014_Basics_14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab015_Basics_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab016_Basics_16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab017_Basics_17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab018_Basics_18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab019_Basics_19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex01_python_basic_pratices/Lab020_Basics_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,9 +30,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Sai-kumaRRR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Sai-kumaRRR/PythonProject6.git&quot;,
+    &quot;accountId&quot;: &quot;a487797c-7cc1-4505-a07c-d4d767349828&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2vXn3wYpVOXE99Ag0Z2Vl3tJP6z" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -53,14 +56,15 @@
     "Python.Lab001_Hello_World.executor": "Run",
     "Python.Lab003_Basics_03.executor": "Run",
     "Python.Lab008_Basics_08.executor": "Run",
+    "Python.Lab015_Basics_15.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab008_Basics_08">
+  <component name="RunManager" selected="Python.Lab015_Basics_15">
     <configuration name="Lab001_Hello_World" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject6" />
+      <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +86,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Lab003_Basics_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject6" />
+      <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +108,7 @@
       <method v="2" />
     </configuration>
     <configuration name="Lab008_Basics_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonProject6" />
+      <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,8 +129,133 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Lab015_Basics_15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex01_python_basic_pratices" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex01_python_basic_pratices/Lab015_Basics_15.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Docutils task">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="docs" factoryName="Sphinx task">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="docutils_input_file" value="" />
+      <option name="docutils_output_file" value="" />
+      <option name="docutils_params" value="" />
+      <option name="docutils_task" value="" />
+      <option name="docutils_open_in_browser" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Autodetect">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Python_Basics_Pratice" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab015_Basics_15" />
         <item itemvalue="Python.Lab008_Basics_08" />
         <item itemvalue="Python.Lab003_Basics_03" />
         <item itemvalue="Python.Lab001_Hello_World" />
@@ -149,6 +278,27 @@
       <option name="presentableId" value="Default" />
       <updated>1744300091267</updated>
     </task>
+    <task id="LOCAL-00001" summary="10th April 2025">
+      <option name="closed" value="true" />
+      <created>1744304322224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744304322224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="10th April 2025">
+      <option name="closed" value="true" />
+      <created>1744304356722</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744304356722</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="10th April 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th April 2025" />
   </component>
 </project>
