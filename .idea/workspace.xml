@@ -5,16 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="11th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab031_Membership_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab032_Identity_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab033_Ternary_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab034_And_operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab035_circle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab036_compare_two_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab037_squence&amp;cube.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab038_Condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab039_less$greaterthen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex02_Char_01/Lab040_if_elif_else_condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab042_list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab043__Grade_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab044_Leap_year.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab046_if&amp;else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab50_continue.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,13 +71,18 @@
     "Python.Lab036_compare_two_numbers.executor": "Run",
     "Python.Lab038_Condition.executor": "Run",
     "Python.Lab039_less$greaterthen.executor": "Run",
+    "Python.Lab041_Loop.executor": "Run",
+    "Python.Lab045_While.executor": "Run",
+    "Python.Lab047_Break&Continue.executor": "Run",
+    "Python.Lab048_For_loop.executor": "Run",
+    "Python.Lab49_if&else.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Lab039_less$greaterthen">
-    <configuration name="Lab033_Ternary_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab49_if&amp;else">
+    <configuration name="Lab041_Loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +91,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab033_Ternary_operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab034_And_operator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab045_While" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -108,11 +113,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab034_And_operator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab036_compare_two_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab047_Break&amp;Continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -130,11 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab036_compare_two_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab038_Condition" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab048_For_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -152,11 +157,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab038_Condition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab039_less$greaterthen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab49_if&amp;else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics_Pratice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,11 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex02_Char_01" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex02_Char_01/Lab039_less$greaterthen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab039_less$greaterthen" />
-        <item itemvalue="Python.Lab038_Condition" />
-        <item itemvalue="Python.Lab036_compare_two_numbers" />
-        <item itemvalue="Python.Lab034_And_operator" />
-        <item itemvalue="Python.Lab033_Ternary_operator" />
+        <item itemvalue="Python.Lab49_if&amp;else" />
+        <item itemvalue="Python.Lab048_For_loop" />
+        <item itemvalue="Python.Lab047_Break&amp;Continue" />
+        <item itemvalue="Python.Lab045_While" />
+        <item itemvalue="Python.Lab041_Loop" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +250,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744345917945</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="11th April 2025">
+      <option name="closed" value="true" />
+      <created>1744368483081</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1744368483082</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
