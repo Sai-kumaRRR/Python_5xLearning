@@ -5,9 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="11th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab052_fabbonaci_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex03_Debugging/Lab053_match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab054_Match.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab060_Match03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab061_Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab062_function_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab063_Functions_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab064_function_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab065_palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab066_Palindrome02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab067_REverse_String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab068_add_sum_two_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab069_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex04_functions/Lab070_Palindrome.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -259,7 +268,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744382235299</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="11th April 2025">
+      <option name="closed" value="true" />
+      <created>1744386423297</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1744386423297</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
