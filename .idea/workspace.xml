@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="12th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab86_function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab87_function02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab88_List.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab89_Max.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab90_Dictionary.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/lab85_Set02.py" afterDir="false" />
+    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="13th April 2025">
+      <change afterPath="$PROJECT_DIR$/ex06_String/Lab91_Dictionary02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06_String/Lab92_Dictionary03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06_String/Lab93_dictionary04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex06_String/Lab84_Set.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex06_String/Lab84_Set.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -290,13 +286,33 @@
       <option name="project" value="LOCAL" />
       <updated>1744457879158</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="13th April 2025">
+      <option name="closed" value="true" />
+      <created>1744507080475</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1744507080475</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="10th April 2025" />
     <MESSAGE value="11th April 2025" />
     <MESSAGE value="12th April 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="12th April 2025" />
+    <MESSAGE value="13th April 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="13th April 2025" />
   </component>
 </project>
