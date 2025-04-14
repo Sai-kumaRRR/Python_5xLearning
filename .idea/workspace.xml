@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="13th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab91_Dictionary02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab92_Dictionary03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex06_String/Lab93_dictionary04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex06_String/Lab94_Dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab95_Dictionary01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex06_String/Lab93_dictionary04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex06_String/Lab93_dictionary04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -294,7 +294,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744507080475</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="13th April 2025">
+      <option name="closed" value="true" />
+      <created>1744545605229</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1744545605229</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
