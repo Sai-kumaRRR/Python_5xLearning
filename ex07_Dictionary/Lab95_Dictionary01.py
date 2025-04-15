@@ -1,5 +1,4 @@
 # order dictionary
-from typing import OrderedDict
 
 my_dict = {'a':1,'b':2 ,'c':3}
 print(my_dict)
@@ -15,8 +14,6 @@ print(my_dict)
 
 # key - value pairs based on the order of insertion
 # list , se , tuple , dict , ordered  dict - API automation and selenium
-
-from collections OrderedDict
 
 od = ordered.Dict()
 od['a'] =45
@@ -36,7 +33,7 @@ keys_sort = keys.sorted(keys)
 print(keys_sort)
 keys_sort_rev= list(reversed(keys))
 print(keys_sort_rev)
-od2 = Ordered.Dict()
+od2 = ordered.Dict()
 od2[keys_sort[0]] = 45
 od2[keys_sort[1]] = 78
 od2[keys_sort[2]] = 56
