@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="15th April 2025">
-      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab100_functions02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab96_Dictionary02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab97_Json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab98_Even_Number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab99_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab101_functions03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab102_funcations04.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex07_Dictionary/Lab100_functions02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex07_Dictionary/Lab100_functions02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +318,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744710754341</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="15th April 2025">
+      <option name="closed" value="true" />
+      <created>1744712869295</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744712869295</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
