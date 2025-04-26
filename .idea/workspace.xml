@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="26th April 2025">
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab110_max_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab111_min_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab112_comma_sparate.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,39 +46,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001_Hello_World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_Basics_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Basics_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015_Basics_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_String_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_String_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026_Row_02option.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027_Operator01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029_logical_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Membership_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_Identity_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_And_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_compare_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039_less$greaterthen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045_While.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab047_Break&amp;Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab048_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab49_if&amp;else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab71_square01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab78_List04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab82_Tuple02.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001_Hello_World.executor": "Run",
+    "Python.Lab003_Basics_03.executor": "Run",
+    "Python.Lab008_Basics_08.executor": "Run",
+    "Python.Lab015_Basics_15.executor": "Run",
+    "Python.Lab022_String_01.executor": "Run",
+    "Python.Lab025_String_02.executor": "Run",
+    "Python.Lab026_Row_02option.executor": "Run",
+    "Python.Lab027_Operator01.executor": "Run",
+    "Python.Lab029_logical_operator.executor": "Run",
+    "Python.Lab031_Membership_operator.executor": "Run",
+    "Python.Lab032_Identity_operator.executor": "Run",
+    "Python.Lab033_Ternary_operator.executor": "Run",
+    "Python.Lab034_And_operator.executor": "Run",
+    "Python.Lab036_compare_two_numbers.executor": "Run",
+    "Python.Lab038_Condition.executor": "Run",
+    "Python.Lab039_less$greaterthen.executor": "Run",
+    "Python.Lab041_Loop.executor": "Run",
+    "Python.Lab045_While.executor": "Run",
+    "Python.Lab047_Break&Continue.executor": "Run",
+    "Python.Lab048_For_loop.executor": "Run",
+    "Python.Lab112_comma_sparate.executor": "Run",
+    "Python.Lab49_if&else.executor": "Run",
+    "Python.Lab71_square01.executor": "Run",
+    "Python.Lab78_List04.executor": "Run",
+    "Python.Lab82_Tuple02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
-  <component name="RunManager" selected="Python.Lab82_Tuple02">
-    <configuration name="Lab048_For_loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.Lab112_comma_sparate">
+    <configuration name="Lab112_comma_sparate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python5x_practice" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -86,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab112_comma_sparate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -291,11 +293,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Lab112_comma_sparate" />
         <item itemvalue="Python.Lab82_Tuple02" />
         <item itemvalue="Python.Lab78_List04" />
         <item itemvalue="Python.Lab71_square01" />
         <item itemvalue="Python.Lab49_if&amp;else" />
-        <item itemvalue="Python.Lab048_For_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -467,7 +469,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745656485516</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="26th April 2025">
+      <option name="closed" value="true" />
+      <created>1745667552772</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1745667552772</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
