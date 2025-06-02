@@ -4,7 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="04th May 2025" />
+    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="04th May 2025">
+      <change afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/ex08_OOP's.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab054_Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab054_Match.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab060_Match03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab060_Match03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab061_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab061_Functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab103_OOP's-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab103_OOP's-01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab104_OOps02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab104_OOps02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab105_OOPs_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab105_OOPs_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab106_break_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab106_break_statement.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab107_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab107_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab108_Practice.Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab108_Practice.Q.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab109_Practice_Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab109_Practice_Q2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab110_max_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab110_max_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab111_min_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab111_min_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab112_comma_sparate.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab112_comma_sparate.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex08_OOP's.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/__init__.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,6 +36,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -73,9 +91,15 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices" />
+      <recent name="C:\Users\alamu\PycharmProjects\PythonProject6\ex09_OOPsConcepts" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Lab113_if_else">
     <configuration name="Lab054_Match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
@@ -90,7 +114,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab054_Match.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices\Lab054_Match.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +136,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab112_comma_sparate.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices\Lab112_comma_sparate.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -405,7 +429,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747655994956</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="04th May 2025">
+      <option name="closed" value="true" />
+      <created>1747656478698</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1747656478698</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
