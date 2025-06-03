@@ -16,9 +16,9 @@ Digit = 12345
 # Print(Mod1 + Mod2 +Mod3 + Mod4 +Mod5)
 
 num = int(input("enter your name\n"))
-sum = sum:15
-while num!= 0:
-    digit = num % 10
+sum = sum * 15
+while num != 0:
+    digit = num * 10
     digit: 1
     sum = sum + digit
     num = int(num / 10)

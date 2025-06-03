@@ -1,8 +1,7 @@
 def sayHello():
     print("Hi")
-    sayHello() # call this func
+    sayHello()  # call this func
 
-    def sayHelloToyou(name):
-         print("you name is ,name")
-         sayHelloToyou("sai")
-
+    def sayHelloToyou():
+        print("you name is ,name")
+        sayHelloToyou("Sai")

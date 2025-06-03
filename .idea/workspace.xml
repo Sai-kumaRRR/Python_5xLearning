@@ -6,25 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="10th May 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_python_Basics/Lab013_Baiscs_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_python_Basics/Lab013_Baiscs_13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex01_python_Basics/Lab019_Basics_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_python_Basics/Lab019_Basics_19.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab021_Escapse_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab021_Escapse_sequence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab023_Boolean_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab023_Boolean_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab024_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab024_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab030_ASSIGN-operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab030_ASSIGN-operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab031_Membership_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab031_Membership_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab032_Identity_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab032_Identity_operator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab042_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab042_list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab044_Leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab044_Leap_year.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04_functions/Lab062_function_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex04_functions/Lab062_function_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04_functions/Lab063_Functions_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex04_functions/Lab063_Functions_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04_functions/Lab064_function_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex04_functions/Lab064_function_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04_functions/Lab068_add_sum_two_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex04_functions/Lab068_add_sum_two_numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex04_functions/Lab069_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex04_functions/Lab069_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +76,14 @@
     "Python.Lab047_Break&Continue.executor": "Run",
     "Python.Lab048_For_loop.executor": "Run",
     "Python.Lab051_factorial.executor": "Run",
+    "Python.Lab052_fabbonaci_01.executor": "Run",
     "Python.Lab054_Match.executor": "Run",
+    "Python.Lab062_function_01.executor": "Run",
+    "Python.Lab063_Functions_02.executor": "Run",
+    "Python.Lab064_function_04.executor": "Run",
+    "Python.Lab065_palindrome.executor": "Run",
+    "Python.Lab067_REverse_String.executor": "Run",
+    "Python.Lab068_add_sum_two_numbers.executor": "Run",
     "Python.Lab112_comma_sparate.executor": "Run",
     "Python.Lab113_if_else.executor": "Run",
     "Python.Lab49_if&else.executor": "Run",
@@ -109,8 +102,8 @@
       <recent name="C:\Users\alamu\PycharmProjects\PythonProject6\ex09_OOPsConcepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab052_fabbonaci_01">
-    <configuration name="Lab043__Grade_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab068_add_sum_two_numbers">
+    <configuration name="Lab063_Functions_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -119,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex04_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab043__Grade_calculator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_functions/Lab063_Functions_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab047_Break&amp;Continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab064_function_04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -141,11 +134,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex04_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_functions/Lab064_function_04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab051_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab065_palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -163,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex04_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_functions/Lab065_palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +169,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab052_fabbonaci_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab067_REverse_String" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,11 +178,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex04_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab052_fabbonaci_01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_functions/Lab067_REverse_String.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -198,7 +191,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab49_if&amp;else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab068_add_sum_two_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,11 +200,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex04_functions" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex04_functions/Lab068_add_sum_two_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -222,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab052_fabbonaci_01" />
-        <item itemvalue="Python.Lab051_factorial" />
-        <item itemvalue="Python.Lab49_if&amp;else" />
-        <item itemvalue="Python.Lab047_Break&amp;Continue" />
-        <item itemvalue="Python.Lab043__Grade_calculator" />
+        <item itemvalue="Python.Lab068_add_sum_two_numbers" />
+        <item itemvalue="Python.Lab067_REverse_String" />
+        <item itemvalue="Python.Lab065_palindrome" />
+        <item itemvalue="Python.Lab064_function_04" />
+        <item itemvalue="Python.Lab063_Functions_02" />
       </list>
     </recent_temporary>
   </component>
@@ -454,7 +447,15 @@
       <option name="project" value="LOCAL" />
       <updated>1748848928787</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="10th May 2025">
+      <option name="closed" value="true" />
+      <created>1748914380503</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1748914380503</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
