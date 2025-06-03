@@ -1,5 +1,7 @@
+from ex06_String.Lab93_dictionary04 import val
+
 name =None
-# None is not the  some as false
+# None is not  some as false
 # None is not an empty String
 # None is not 0
 

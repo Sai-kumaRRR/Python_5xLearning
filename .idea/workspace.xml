@@ -4,23 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="04th May 2025">
-      <change afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/ex08_OOP's.py" afterDir="false" />
+    <list default="true" id="fbf796b4-d0ab-47c6-9287-0730a5c3d8f9" name="Changes" comment="10th May 2025">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab054_Match.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab054_Match.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab060_Match03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab060_Match03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab061_Functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab061_Functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab103_OOP's-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab103_OOP's-01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab104_OOps02.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab104_OOps02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab105_OOPs_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/Lab105_OOPs_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab106_break_statement.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab106_break_statement.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab107_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab107_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab108_Practice.Q.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab108_Practice.Q.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab109_Practice_Q2.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab109_Practice_Q2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab110_max_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab110_max_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab111_min_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab111_min_number.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab112_comma_sparate.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex08_example_practices/Lab112_comma_sparate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ex08_OOP's.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex09_OOPsConcepts/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_python_Basics/Lab013_Baiscs_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_python_Basics/Lab013_Baiscs_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex01_python_Basics/Lab019_Basics_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex01_python_Basics/Lab019_Basics_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab021_Escapse_sequence.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab021_Escapse_sequence.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab022_String_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab023_Boolean_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab023_Boolean_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab024_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab024_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab026_Row_02option.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab027_Operator01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab030_ASSIGN-operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab030_ASSIGN-operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab031_Membership_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab031_Membership_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex02_Char_01/Lab032_Identity_operator.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex02_Char_01/Lab032_Identity_operator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab041_Loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab042_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab042_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab044_Leap_year.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab044_Leap_year.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab045_While.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab048_For_loop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,49 +63,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Lab001_Hello_World.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab003_Basics_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab008_Basics_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab015_Basics_15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab022_String_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab025_String_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab026_Row_02option.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab027_Operator01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab029_logical_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab031_Membership_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab032_Identity_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab033_Ternary_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab034_And_operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab036_compare_two_numbers.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab038_Condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab039_less$greaterthen.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab041_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab045_While.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab047_Break&amp;Continue.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab048_For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab054_Match.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab112_comma_sparate.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab113_if_else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab49_if&amp;else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab71_square01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab78_List04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lab82_Tuple02.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Lab001_Hello_World.executor": "Run",
+    "Python.Lab003_Basics_03.executor": "Run",
+    "Python.Lab008_Basics_08.executor": "Run",
+    "Python.Lab013_Baiscs_13.executor": "Run",
+    "Python.Lab015_Basics_15.executor": "Run",
+    "Python.Lab019_Basics_19.executor": "Run",
+    "Python.Lab022_String_01.executor": "Run",
+    "Python.Lab025_String_02.executor": "Run",
+    "Python.Lab026_Row_02option.executor": "Run",
+    "Python.Lab027_Operator01.executor": "Run",
+    "Python.Lab029_logical_operator.executor": "Run",
+    "Python.Lab031_Membership_operator.executor": "Run",
+    "Python.Lab032_Identity_operator.executor": "Run",
+    "Python.Lab033_Ternary_operator.executor": "Run",
+    "Python.Lab034_And_operator.executor": "Run",
+    "Python.Lab036_compare_two_numbers.executor": "Run",
+    "Python.Lab038_Condition.executor": "Run",
+    "Python.Lab039_less$greaterthen.executor": "Run",
+    "Python.Lab041_Loop.executor": "Run",
+    "Python.Lab042_list.executor": "Run",
+    "Python.Lab043__Grade_calculator.executor": "Run",
+    "Python.Lab045_While.executor": "Run",
+    "Python.Lab047_Break&Continue.executor": "Run",
+    "Python.Lab048_For_loop.executor": "Run",
+    "Python.Lab051_factorial.executor": "Run",
+    "Python.Lab054_Match.executor": "Run",
+    "Python.Lab112_comma_sparate.executor": "Run",
+    "Python.Lab113_if_else.executor": "Run",
+    "Python.Lab49_if&else.executor": "Run",
+    "Python.Lab71_square01.executor": "Run",
+    "Python.Lab78_List04.executor": "Run",
+    "Python.Lab82_Tuple02.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices" />
       <recent name="C:\Users\alamu\PycharmProjects\PythonProject6\ex09_OOPsConcepts" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab113_if_else">
-    <configuration name="Lab054_Match" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lab052_fabbonaci_01">
+    <configuration name="Lab043__Grade_calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +119,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices\Lab054_Match.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab043__Grade_calculator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +132,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab112_comma_sparate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab047_Break&amp;Continue" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -132,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\alamu\PycharmProjects\PythonProject6\ex08_example_practices\Lab112_comma_sparate.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab047_Break&amp;Continue.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab113_if_else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab051_factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex08_example_practices" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex08_example_practices/Lab113_if_else.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab051_factorial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +176,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab78_List04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab052_fabbonaci_01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,11 +185,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex05_Square" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex05_Square/Lab78_List04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab052_fabbonaci_01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +198,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab82_Tuple02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lab49_if&amp;else" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python_Basics" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,11 +207,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex06_Tuple" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ex03_Debugging" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex06_Tuple/Lab82_Tuple02.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ex03_Debugging/Lab49_if&amp;else.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +222,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab113_if_else" />
-        <item itemvalue="Python.Lab054_Match" />
-        <item itemvalue="Python.Lab112_comma_sparate" />
-        <item itemvalue="Python.Lab82_Tuple02" />
-        <item itemvalue="Python.Lab78_List04" />
+        <item itemvalue="Python.Lab052_fabbonaci_01" />
+        <item itemvalue="Python.Lab051_factorial" />
+        <item itemvalue="Python.Lab49_if&amp;else" />
+        <item itemvalue="Python.Lab047_Break&amp;Continue" />
+        <item itemvalue="Python.Lab043__Grade_calculator" />
       </list>
     </recent_temporary>
   </component>
@@ -437,7 +446,15 @@
       <option name="project" value="LOCAL" />
       <updated>1747656478698</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="10th May 2025">
+      <option name="closed" value="true" />
+      <created>1748848928787</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1748848928787</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -462,6 +479,7 @@
     <MESSAGE value="25th April 2025" />
     <MESSAGE value="26th April 2025" />
     <MESSAGE value="04th May 2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="04th May 2025" />
+    <MESSAGE value="10th May 2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="10th May 2025" />
   </component>
 </project>

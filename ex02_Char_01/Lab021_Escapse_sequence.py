@@ -1,4 +1,4 @@
-# Escapse sequence
+# Escape sequence
 
 # Special combination off character
 print("This is a backlash \\")

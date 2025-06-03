@@ -1,4 +1,5 @@
 n= int(input("Enter number\n"))
+
 print(f' table of{n} is:')
 
 print(f'{n}*1 ={n*1}')

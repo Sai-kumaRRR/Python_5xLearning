@@ -1,4 +1,4 @@
-my_String = "this is software from the testing Academy"
+my_String = "Hello"
 print(type(my_String))
 print(len(my_String))
 #String is  bunch of char

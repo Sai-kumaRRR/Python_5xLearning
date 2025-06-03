@@ -1,3 +1,4 @@
 #Boolean
+
 #Bool
 isMale = True

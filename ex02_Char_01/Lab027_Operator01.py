@@ -5,7 +5,7 @@
 # % modulus
 
 # // floor division
-# ** Expunentiation
+# ** Exponentiation
 # can we take the value from user?
 a = int(input("Enter the value of a\n")),  # 10
 b = int(input("Enter the value of b\n"))  # 5

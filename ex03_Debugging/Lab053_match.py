@@ -1,4 +1,5 @@
 # match
+
 # similar to switch
 number = int(input("enter to number\n"))
 match number:
@@ -7,5 +8,5 @@ match number:
     case 2:
 
         print("you have entered 2")
-    case _: # nothing is matching i will run
+    case _:  # nothing is matching i will run
         print("no idea")

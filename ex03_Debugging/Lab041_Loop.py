@@ -1,4 +1,5 @@
 # Loop
+
 # Repeat a block of code multiple times
 # print("Hello World")
 # print("Hello World")
@@ -6,7 +7,7 @@
 # print("Hello World")
 # print("Hello World")
 
-for x in range(1, 10, 15):
-    print(x)
+for y in range(1, 10, 15):
+    print(y+1)
 
-    # range (strat, stop , step)
+    # range (start, stop , step)
